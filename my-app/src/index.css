@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+        font-family: Roboto, sans-serif;
+
+            /* outline: 2px solid red; */
+
+}
+html{
+    overflow-x: hidden;
+
+}
+button{
+    cursor: pointer;
+}
+/* button:hover{
+    background-color: chocolate;
+} */
+.nav-section{
+background-color: aliceblue;
+position: fixed;
+z-index: 10;
+}
+.nav-info{
+    background-color: brown;
+    height: 35px;
+    width: 100%;    
+    overflow-x: hidden; 
+     white-space: "nowrap"
+}
+.nav-inner{
+ width: 80%;
+ margin-inline: auto;
+ padding-block: 20px;
+}
+    .nav-ul{
+     margin-top: 10px;
+    }
+.toggle{
+    display: none;
+}
+@media (max-width: 768px) {
+    .toggle{
+        display: block;
+        position: absolute;
+        right: 10%;
+    }
+    .toggle.active{
+        color: blue;
+       position: absolute; 
+         right: 35%;
+         top: 35px;
+         
+
+    }
+    .menu{
+        display: none;
+    }
+    .menu.open{
+        display: block;
+        background-color: aqua;
+    }
+    .nav-ul{
+        width: 30%;
+        background-color: aqua;
+        padding: 20px;
+        position: absolute;
+        right: 0;
+        top: 35px;
+        z-index: 10;
+        margin-top: 0;
+
+    }
+}
+
+/* end of nav */
+.home-div{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+}
+.bg-p{
+     margin-top: 15px;
+}
+ .bg-button{
+ padding: 12px;
+ margin-top: 15px;
+}
+.second-section, .third-section, .seventh-section,.eight-section, .nineth-sec-div{
+    margin-top: 50px;
+    width: 90%;
+    margin-inline: auto;
+
+}
+.second-text{
+    margin-bottom: 30px;
+}
+.third-section-btn{
+    padding: 7px;
+}
+.fouth-section{
+    margin-top: 50px;
+}
+.fifth-section-div{
+    margin-inline: auto;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.fifth-section{
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+.fifth-section-price{
+    margin-top: 20px;
+}
+.fifth-sec-btn{
+    padding: 10px;
+    margin-top: 20px;
+}
+.nineth-section{
+margin-top: 40px;
+}
+.input{
+    padding: 10px;
+}
+.button{
+    padding: 10px 30px;
+}
+footer{
+    padding-block: 20px;
+}
+@media (max-width: 768px) {
+.nineth-sec-div,form, .second-section, .third-section, .seventh-section, .fifth-section-div, .eight-section{
+    width: 70%;
+    margin-inline: auto;
+
+}
+
+}
+
+/* detail */
+.detail-section-div{
+margin-inline: auto;   
+margin-bottom: 20px;
+padding: 20px 10px;
+/* background-color: aqua; */
+}
+.detail-name{
+    margin-top: 15px;
+}
+.detail-add-to-cart{
+margin-bottom: 20px;
+}
+.orderconfirm-div{
+    width: 90%;
+    margin-inline: auto;
+    margin-bottom: 20px;
+}
