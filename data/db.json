@@ -1,0 +1,177 @@
+{
+  "markets": [
+    {
+      "id": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "chairs",
+      "count": 0,
+      "price": "50.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "Plate",
+      "count": 0,
+      "price": "5.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "Door",
+      "count": 0,
+      "price": "40.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "chairs",
+      "price": "50.00",
+      "count": 0,
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "Mirror",
+      "price": "50.00",
+      "count": 0,
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "Light",
+      "count": 0,
+      "price": "10.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "Pillow",
+      "price": "30.00",
+      "count": 0,
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "Flowers",
+      "count": 0,
+      "price": "20.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    }
+  ],
+  "newarrivals": [
+    {
+      "id": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "chairs",
+      "price": "50.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "Plate",
+      "price": "5.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "Door",
+      "price": "40.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpmVpH9cpE9jas__TcQ1ESp4VPo-jfD4gvQ&s",
+      "name": "chairs",
+      "price": "50.00",
+      "others": "ou 5x de R$ 14,00 sem juros",
+      "moreimage": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQoJ3_NBtWxic6ONVkMLcJbzLTvr25SZvIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBvUa994caSJ3_1KWxbudf7734ayAvIidmA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasuDfaapoz0xv1yi9RngGqTNef6gEflOmDA&s"
+      ]
+    }
+  ],
+  "email": [
+    {
+      "id": "0512",
+      "email": "oladipupofunmilayodorcas@gmail.com"
+    },
+    {
+      "id": "79ab",
+      "email": "oladipupofunmilayodorcas@gmail.com"
+    },
+    {
+      "id": "bb9b",
+      "email": "oladipupofunmilayodorcas@gmail.com"
+    },
+    {
+      "id": "c15d",
+      "email": "oladipupofunmilayodorcas@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
